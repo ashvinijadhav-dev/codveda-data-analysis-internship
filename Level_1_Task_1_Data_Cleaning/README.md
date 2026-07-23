@@ -7,8 +7,11 @@ The objective of this project is to clean and preprocess the House Prediction da
 
 ### Tools Used
 - Python
+  
 - Pandas
+  
 - NumPy
+  
 - Jupyter Notebook
 
 ### Dataset
@@ -16,17 +19,26 @@ House Prediction Dataset (Boston Housing Dataset)
 
 ### Tasks Performed
 - Loaded the dataset using Pandas
+  
 - Added appropriate column names
+  
 - Examined dataset structure
+  
 - Checked data types
+  
 - Verified missing values
+  
 - Checked duplicate records
+  
 - Saved the cleaned dataset
 
 ### Results
 - Total Records: 506
+  
 - Total Features: 14
+  
 - Missing Values: 0
+  
 - Duplicate Rows: 0
 
 ### Files Included
